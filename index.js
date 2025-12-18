@@ -8,4 +8,3 @@ http.createServer((req, res) => {
 
 startBot(process.env.TOKEN_1, process.env.CLIENT_ID_1);
 startBot(process.env.TOKEN_2, process.env.CLIENT_ID_2);
-
